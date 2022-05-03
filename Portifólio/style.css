@@ -1,0 +1,10 @@
+#top {
+    background-color: rgb(55, 194, 129);
+    
+}
+.navbar .navbar-start>a.navbar-item:hover{
+    background-color: rgb(39, 40, 49);
+}
+footer{
+    background-color: rgb(39, 40, 49);
+}
